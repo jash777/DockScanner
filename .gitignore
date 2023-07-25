@@ -1,0 +1,6 @@
+Dockerfile
+misc/app_virustotal_stream.py
+misc/app_virustotal.py
+misc/app_vulnabilityscan.py
+misc/app.py
+misc/sha256
