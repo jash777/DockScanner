@@ -4,3 +4,11 @@ misc/app_virustotal.py
 misc/app_vulnabilityscan.py
 misc/app.py
 misc/sha256
+app_vulnarabilityscan.py
+docker_extract.py
+main.go
+output.json
+go.sum
+go.mod
+dockescan.exe
+dockerimages.txt
